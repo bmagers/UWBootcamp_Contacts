@@ -12,7 +12,7 @@ Kimmy Kablitz https://github.com/kimkablitz https://www.linkedin.com/in/kimmy-k-
 
 Mark Erik Salvatier https://github.com/esalvatier www.linkedin.com/in/merik-salvatier
 
-Bryan Magers https://github.com/bmagers https://www.linkedin.com/in/bryan-magers
+Bryan Magers https://github.com/bmagers https://www.linkedin.com/in/bryan-magers/
 
 James Dowd  https://github.com/jdowd215  https://www.linkedin.com/in/james-dowd-1b080b14/
 
